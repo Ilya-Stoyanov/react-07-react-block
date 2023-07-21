@@ -1,8 +1,10 @@
-# React
+# React start file
 
 React для начинающих
 
 ## React Blog
+
+## npm i
 
 ## Больше уроков
 
