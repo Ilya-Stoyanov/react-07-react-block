@@ -1,8 +1,8 @@
-# React start file
-
+# React
 React для начинающих
 
-## React Blog
+## React Blog - start file
+
 
 ## Как развернуть проект
 
